@@ -17,4 +17,5 @@ Welcome to our repo for organizing and tracking open data found by Code for Port
 | Oregon County Clerks | [Link](http://sos.oregon.gov/elections/Pages/countyofficials.aspx) | | | Elections |
 | Statewide Landslide Information Database for Oregon (SLIDO-3) | [Link](http://www.oregongeology.org/sub/slido/data.htm#data) | GIS | Updated 2014-04-23! | Various |
 | Missouri Census Data Center | [Link](http://mcdc.missouri.edu/) | Taxes, Migration, IRS | Updated through 2011 | Equity, Transportation |
+| Portland Bike Theft Data | [Link](https://github.com/oregonian/bikethefts) | | 2007-2014 | |
 | Add more here and below! |  |  |  |
