@@ -1,3 +1,7 @@
-reconstitute using
+It can be reconstituted using
 
-cat Building_Footprints_pdx.zip.split.x* > Building_Footprints_pdx.zip
+ cat Building_Footprints_pdx.zip.split.x* > Building_Footprints_pdx.zip
+
+split files were created using the command:
+
+ split -b 40000000 Building_Footprints_pdx.zip Building_Footprints_pdx.zip.split.x
