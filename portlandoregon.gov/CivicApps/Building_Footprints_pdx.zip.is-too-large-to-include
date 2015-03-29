@@ -1,0 +1,3 @@
+reconstitute using
+
+cat Building_Footprints_pdx.zip.split.x* > Building_Footprints_pdx.zip
