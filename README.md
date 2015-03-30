@@ -1,6 +1,8 @@
 # data
 
-Welcome to our repo for organizing and tracking open data found by Code for Portland community. This is most definitely a work in progress -- please send us pull requests with additions and fixes!
+Welcome to our repo for organizing and tracking open data found by the Code for Portland community.
+
+This is most definitely a work in progress -- please send us pull requests with additions and fixes!
 
 | Data source | Link | Details | Status | Project Areas |
 | ----------- | ---- | ------- | ------ | ------------- |
