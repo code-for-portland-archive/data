@@ -4,20 +4,19 @@ Welcome to our repo for organizing and tracking open data found by the Code for 
 
 This is most definitely a work in progress -- please send us pull requests with additions and fixes!
 
-| Data source | Link | Details | Status | Project Areas |
-| ----------- | ---- | ------- | ------ | ------------- |
-| CivicApps | [Link](http://civicapps.org/datasets) | All kinds of data! Highlights: ... | Updated regularly, but dates on the dataset are not always up to date. Could use some love. | Various |
-| CitySync/CivicApps API | [Link](http://api.civicapps.org/) | API to various datasets | | Various |
-| Bureau of Technology Services data catalog | [Link](http://www.portlandoregon.gov/bts/article/268487) | Lots of stuff, overlaps with CivicApps | | Various
-| TriMet Developer Site | [Link](http://developer.trimet.org) | TriMet data APIs and GIS data | | Transportation |
-| Metro RLIS | [Link](http://rlisdiscovery.oregonmetro.gov/) | GIS data, such as: ... | Well-maintained, but not all of its data is open |
-| TIGER | [Link](http://www.census.gov/geo/maps-data/data/tiger-line.html) | GIS boundary data | Updated yearly, can be hard to process | Equity |
-| GIS Shape files - Multnomah County Precincts | [Link](http://web.multco.us/sites/default/files/elections/documents/multcoprecincts2013.zip) | GIS | | Elections |
-| Oregon Geospatial Enterprise Office (GEO) Spatial Data Library - Alphabetical List | [Link](http://www.oregon.gov/DAS/CIO/GEO/pages/alphalist.aspx) | GIS | | Various |
-| UO Library Maps and GIS Resources: State of Oregon, County Level | [Link](http://library.uoregon.edu/map/or/gis_or_county.htm) | GIS | | Various |
-| Oregon State Elected Officials | [Link](http://sos.oregon.gov/elections/Pages/stateofficials.aspx) | | | Elections |
-| Oregon County Clerks | [Link](http://sos.oregon.gov/elections/Pages/countyofficials.aspx) | | | Elections |
-| Statewide Landslide Information Database for Oregon (SLIDO-3) | [Link](http://www.oregongeology.org/sub/slido/data.htm#data) | GIS | Updated 2014-04-23! | Various |
-| Missouri Census Data Center | [Link](http://mcdc.missouri.edu/) | Taxes, Migration, IRS | Updated through 2011 | Equity, Transportation |
-| Portland Bike Theft Data | [Link](https://github.com/oregonian/bikethefts) | | 2007-2014 | |
-| Add more here and below! |  |  |  |
+| Data Source | Details | Status |
+| ----------- | ------- | ------ |
+| [CivicApps](http://civicapps.org/datasets) | City of Portland Open Data Portal (managed by eGov & PBPS?) | Datasets may be updated infrequently depending on department |
+| [CitySync/CivicApps API](http://api.civicapps.org/) | API for datasets | ? |
+| [TriMet Developer Site](http://developer.trimet.org) | TriMet data APIs and GIS data | |
+| [Metro RLIS](http://rlisdiscovery.oregonmetro.gov/) | GIS data | Well-maintained, but not all of its data is open - Transportation |
+| [TIGER](http://www.census.gov/geo/maps-data/data/tiger-line.html) | GIS boundary data | Updated yearly, can be hard to process - Equity |
+| [Multnomah County Precinct Shapefiles](http://web.multco.us/sites/default/files/elections/documents/multcoprecincts2013.zip) | GIS | | Elections |
+| [Oregon GEO Spatial Data Library](http://www.oregon.gov/DAS/CIO/GEO/pages/alphalist.aspx) | Geospatial Enterprise Office | |
+| [UO Library Maps and GIS Resources](http://library.uoregon.edu/map/or/gis_or_county.htm) | State of Oregon, County Level GIS data | |
+| [Oregon State Elected Officials](http://sos.oregon.gov/elections/Pages/stateofficials.aspx) | Elections | |
+| [Oregon County Clerks](http://sos.oregon.gov/elections/Pages/countyofficials.aspx) | Elections | |
+| [SLIDO-3](http://www.oregongeology.org/sub/slido/data.htm#data) | Statewide Landslide Information Database for Oregon | Updated 2014-04-23! |
+| [Missouri Census Data Center](http://mcdc.missouri.edu/) | Taxes, Migration, IRS, Equity, Transportation | Updated through 2011 |
+| [Portland Bike Theft Data](https://github.com/oregonian/bikethefts) | 2007-2014 | |
+| [ODOT Transit Data Portal](http://www.oregon.gov/ODOT/TD/Pages/Data_Portal.aspx) | Transportation | |
